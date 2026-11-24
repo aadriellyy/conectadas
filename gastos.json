@@ -1,0 +1,12 @@
+[
+    {
+       "descricao": "Mercado",
+       "valor": 152.50,
+       "categoria": "Alimentação" 
+    },
+    {
+        "descricao": "Uber",
+        "valor": 150,
+        "categoria": "Transporte"
+    }
+]
